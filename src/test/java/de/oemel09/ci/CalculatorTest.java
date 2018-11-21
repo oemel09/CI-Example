@@ -53,9 +53,4 @@ class CalculatorTest {
     void testPowWithExponent1() {
         assertEquals(2, calculator.pow(2, 1));
     }
-
-    @Test
-    void testPowWithExponent0() {
-        assertEquals(1, calculator.pow(2, 0));
-    }
 }
