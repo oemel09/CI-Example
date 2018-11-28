@@ -58,4 +58,10 @@ class CalculatorTest {
     void testPowWithExponent0() {
         assertEquals(1, calculator.pow(2, 0));
     }
+
+    @Test
+    void testSquare() {
+        assertEquals(4, calculator.square(2));
+        assertEquals(16, calculator.square(4));
+    }
 }
