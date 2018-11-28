@@ -26,4 +26,8 @@ class Calculator {
         }
         return base;
     }
+
+    int square (int a) {
+        return a * a;
+    }
 }
