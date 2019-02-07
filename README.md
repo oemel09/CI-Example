@@ -1,9 +1,9 @@
 # CI-Example
-Small example for continuous integration with travis-ci.com.  
+Small example for continuous integration with [travis-ci.com](travis-ci.com).  
 
-Tests run with JUnit 5 and JaCoCo is used to check code-coverage.  
+Tests run with [JUnit 5](https://junit.org/junit5/) and [JaCoCo](https://www.jacoco.org/jacoco/) is used to check code-coverage.  
 
-Results will be published to codecov.io.  
+Results will be published to [codecov.io](codecov.io).  
 
 ## Badges
 These two services will also give you those nice, little badges. Enjoy!  
