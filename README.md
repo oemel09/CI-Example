@@ -1,9 +1,9 @@
 # CI-Example
-Small example for continuous integration with [travis-ci.com](travis-ci.com).  
+Small example for continuous integration with [travis-ci.com](https://travis-ci.com/).  
 
 Tests run with [JUnit 5](https://junit.org/junit5/) and [JaCoCo](https://www.jacoco.org/jacoco/) is used to check code-coverage.  
 
-Results will be published to [codecov.io](codecov.io).
+Results will be published to [codecov.io](https://about.codecov.io/).
 
 Static code analysis is performed and can be accessed at [sonarcloud.io](https://sonarcloud.io/dashboard?id=ci-example)  
 
